@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Dhairya Ajwani
 - 🧑‍💻 I’m interested in Coding
+- 🏫 I'm currently studing B.Tech Information Technology
 - 🌱 I’m currently learning Django and Docker
 - 💞️ I’m looking to collaborate on any Django retalted projects
+- 🏏 My favourite sport cricket 
 - 📫 Contect me at ajwanidhairya0909@gmail.com
 - 📨 Chat with me at [LinkedIn](https://www.linkedin.com/in/dhairya-ajwnai-b6b33326b/)
